@@ -6,6 +6,8 @@ These are the Kicad design files for the 8042 controller board used in my projec
 
 First release November 2018
 
+Update November 2019
+
 ## Authors
 
 * **Ken Yap**
